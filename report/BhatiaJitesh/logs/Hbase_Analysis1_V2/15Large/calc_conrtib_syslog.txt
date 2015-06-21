@@ -1,0 +1,121 @@
+2014-04-16 00:27:04,487 INFO org.apache.hadoop.mapred.JobClient (main): Default number of map tasks: null
+2014-04-16 00:27:04,487 INFO org.apache.hadoop.mapred.JobClient (main): Setting default number of map tasks based on cluster size to : 30
+2014-04-16 00:27:04,488 INFO org.apache.hadoop.mapred.JobClient (main): Default number of reduce tasks: 15
+2014-04-16 00:27:04,488 WARN org.apache.hadoop.mapred.JobClient (main): Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+2014-04-16 00:27:06,166 INFO org.apache.hadoop.security.ShellBasedUnixGroupsMapping (main): add hadoop to shell userGroupsCache
+2014-04-16 00:27:06,171 INFO org.apache.hadoop.mapred.JobClient (main): Setting group to hadoop
+2014-04-16 00:27:07,764 INFO org.apache.hadoop.mapred.JobClient (main): Running job: job_201404152345_0002
+2014-04-16 00:27:08,768 INFO org.apache.hadoop.mapred.JobClient (main):  map 0% reduce 0%
+2014-04-16 00:28:18,962 INFO org.apache.hadoop.mapred.JobClient (main):  map 6% reduce 0%
+2014-04-16 00:28:27,985 INFO org.apache.hadoop.mapred.JobClient (main):  map 9% reduce 0%
+2014-04-16 00:28:30,992 INFO org.apache.hadoop.mapred.JobClient (main):  map 15% reduce 0%
+2014-04-16 00:28:34,000 INFO org.apache.hadoop.mapred.JobClient (main):  map 18% reduce 0%
+2014-04-16 00:28:37,007 INFO org.apache.hadoop.mapred.JobClient (main):  map 18% reduce 3%
+2014-04-16 00:28:40,015 INFO org.apache.hadoop.mapred.JobClient (main):  map 21% reduce 5%
+2014-04-16 00:28:43,023 INFO org.apache.hadoop.mapred.JobClient (main):  map 24% reduce 5%
+2014-04-16 00:28:46,030 INFO org.apache.hadoop.mapred.JobClient (main):  map 27% reduce 5%
+2014-04-16 00:28:47,033 INFO org.apache.hadoop.mapred.JobClient (main):  map 30% reduce 6%
+2014-04-16 00:28:49,038 INFO org.apache.hadoop.mapred.JobClient (main):  map 33% reduce 6%
+2014-04-16 00:28:50,041 INFO org.apache.hadoop.mapred.JobClient (main):  map 36% reduce 6%
+2014-04-16 00:28:52,046 INFO org.apache.hadoop.mapred.JobClient (main):  map 39% reduce 8%
+2014-04-16 00:28:55,054 INFO org.apache.hadoop.mapred.JobClient (main):  map 39% reduce 10%
+2014-04-16 00:28:58,061 INFO org.apache.hadoop.mapred.JobClient (main):  map 39% reduce 11%
+2014-04-16 00:29:01,068 INFO org.apache.hadoop.mapred.JobClient (main):  map 39% reduce 12%
+2014-04-16 00:29:04,076 INFO org.apache.hadoop.mapred.JobClient (main):  map 39% reduce 13%
+2014-04-16 00:29:07,083 INFO org.apache.hadoop.mapred.JobClient (main):  map 42% reduce 13%
+2014-04-16 00:29:10,091 INFO org.apache.hadoop.mapred.JobClient (main):  map 45% reduce 13%
+2014-04-16 00:29:19,114 INFO org.apache.hadoop.mapred.JobClient (main):  map 48% reduce 14%
+2014-04-16 00:29:22,122 INFO org.apache.hadoop.mapred.JobClient (main):  map 48% reduce 15%
+2014-04-16 00:29:25,129 INFO org.apache.hadoop.mapred.JobClient (main):  map 51% reduce 15%
+2014-04-16 00:29:28,137 INFO org.apache.hadoop.mapred.JobClient (main):  map 57% reduce 15%
+2014-04-16 00:29:31,144 INFO org.apache.hadoop.mapred.JobClient (main):  map 60% reduce 16%
+2014-04-16 00:29:34,152 INFO org.apache.hadoop.mapred.JobClient (main):  map 66% reduce 16%
+2014-04-16 00:29:37,160 INFO org.apache.hadoop.mapred.JobClient (main):  map 66% reduce 18%
+2014-04-16 00:29:40,172 INFO org.apache.hadoop.mapred.JobClient (main):  map 69% reduce 20%
+2014-04-16 00:29:43,179 INFO org.apache.hadoop.mapred.JobClient (main):  map 69% reduce 21%
+2014-04-16 00:29:46,187 INFO org.apache.hadoop.mapred.JobClient (main):  map 69% reduce 22%
+2014-04-16 00:29:52,201 INFO org.apache.hadoop.mapred.JobClient (main):  map 69% reduce 23%
+2014-04-16 00:29:55,208 INFO org.apache.hadoop.mapred.JobClient (main):  map 72% reduce 23%
+2014-04-16 00:29:58,221 INFO org.apache.hadoop.mapred.JobClient (main):  map 75% reduce 23%
+2014-04-16 00:30:01,228 INFO org.apache.hadoop.mapred.JobClient (main):  map 78% reduce 23%
+2014-04-16 00:30:08,483 INFO org.apache.hadoop.mapred.JobClient (main):  map 78% reduce 24%
+2014-04-16 00:30:09,486 INFO org.apache.hadoop.mapred.JobClient (main):  map 78% reduce 25%
+2014-04-16 00:30:11,492 INFO org.apache.hadoop.mapred.JobClient (main):  map 81% reduce 26%
+2014-04-16 00:30:17,507 INFO org.apache.hadoop.mapred.JobClient (main):  map 87% reduce 26%
+2014-04-16 00:30:23,521 INFO org.apache.hadoop.mapred.JobClient (main):  map 90% reduce 28%
+2014-04-16 00:30:26,529 INFO org.apache.hadoop.mapred.JobClient (main):  map 93% reduce 28%
+2014-04-16 00:30:29,536 INFO org.apache.hadoop.mapred.JobClient (main):  map 93% reduce 29%
+2014-04-16 00:30:35,551 INFO org.apache.hadoop.mapred.JobClient (main):  map 93% reduce 30%
+2014-04-16 00:30:38,558 INFO org.apache.hadoop.mapred.JobClient (main):  map 93% reduce 31%
+2014-04-16 00:31:05,630 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 31%
+2014-04-16 00:31:14,652 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 34%
+2014-04-16 00:31:17,659 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 60%
+2014-04-16 00:31:20,666 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 67%
+2014-04-16 00:31:35,704 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 68%
+2014-04-16 00:31:53,748 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 69%
+2014-04-16 00:32:14,800 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 70%
+2014-04-16 00:32:38,859 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 71%
+2014-04-16 00:33:05,921 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 72%
+2014-04-16 00:33:26,973 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 73%
+2014-04-16 00:33:48,022 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 74%
+2014-04-16 00:34:12,079 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 75%
+2014-04-16 00:34:45,161 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 76%
+2014-04-16 00:35:15,233 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 77%
+2014-04-16 00:35:54,328 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 78%
+2014-04-16 00:36:21,393 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 79%
+2014-04-16 00:36:45,449 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 80%
+2014-04-16 00:37:18,531 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 81%
+2014-04-16 00:37:57,621 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 82%
+2014-04-16 00:38:42,728 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 83%
+2014-04-16 00:39:06,784 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 84%
+2014-04-16 00:39:51,888 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 85%
+2014-04-16 00:40:03,916 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 86%
+2014-04-16 00:40:15,943 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 87%
+2014-04-16 00:40:27,969 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 88%
+2014-04-16 00:40:49,016 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 89%
+2014-04-16 00:41:16,077 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 90%
+2014-04-16 00:41:46,147 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 91%
+2014-04-16 00:42:04,188 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 92%
+2014-04-16 00:42:19,222 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 93%
+2014-04-16 00:42:31,248 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 94%
+2014-04-16 00:42:54,296 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 95%
+2014-04-16 00:43:09,328 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 96%
+2014-04-16 00:43:22,354 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 97%
+2014-04-16 00:43:30,370 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 98%
+2014-04-16 00:43:49,409 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 99%
+2014-04-16 00:44:09,451 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 100%
+2014-04-16 00:44:14,463 INFO org.apache.hadoop.mapred.JobClient (main): Job complete: job_201404152345_0002
+2014-04-16 00:44:14,493 INFO org.apache.hadoop.mapred.JobClient (main): Counters: 28
+2014-04-16 00:44:14,494 INFO org.apache.hadoop.mapred.JobClient (main):   Job Counters 
+2014-04-16 00:44:14,494 INFO org.apache.hadoop.mapred.JobClient (main):     Launched reduce tasks=15
+2014-04-16 00:44:14,494 INFO org.apache.hadoop.mapred.JobClient (main):     SLOTS_MILLIS_MAPS=2355556
+2014-04-16 00:44:14,494 INFO org.apache.hadoop.mapred.JobClient (main):     Total time spent by all reduces waiting after reserving slots (ms)=0
+2014-04-16 00:44:14,494 INFO org.apache.hadoop.mapred.JobClient (main):     Total time spent by all maps waiting after reserving slots (ms)=0
+2014-04-16 00:44:14,495 INFO org.apache.hadoop.mapred.JobClient (main):     Rack-local map tasks=43
+2014-04-16 00:44:14,495 INFO org.apache.hadoop.mapred.JobClient (main):     Launched map tasks=43
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):     SLOTS_MILLIS_REDUCES=13417243
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):   File Output Format Counters 
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):     Bytes Written=0
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):   FileSystemCounters
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):     FILE_BYTES_READ=1009018928
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):     HDFS_BYTES_READ=3704
+2014-04-16 00:44:14,496 INFO org.apache.hadoop.mapred.JobClient (main):     FILE_BYTES_WRITTEN=1519748190
+2014-04-16 00:44:14,497 INFO org.apache.hadoop.mapred.JobClient (main):   File Input Format Counters 
+2014-04-16 00:44:14,497 INFO org.apache.hadoop.mapred.JobClient (main):     Bytes Read=0
+2014-04-16 00:44:14,497 INFO org.apache.hadoop.mapred.JobClient (main):   Map-Reduce Framework
+2014-04-16 00:44:14,497 INFO org.apache.hadoop.mapred.JobClient (main):     Map output materialized bytes=516000726
+2014-04-16 00:44:14,497 INFO org.apache.hadoop.mapred.JobClient (main):     Map input records=59143022
+2014-04-16 00:44:14,497 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce shuffle bytes=516000726
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Spilled Records=177429066
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Map output bytes=1334275918
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Total committed heap usage (bytes)=18635292672
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     CPU time spent (ms)=1379710
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Combine input records=0
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     SPLIT_RAW_BYTES=4853
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce input records=59143022
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce input groups=2728226
+2014-04-16 00:44:14,498 INFO org.apache.hadoop.mapred.JobClient (main):     Combine output records=0
+2014-04-16 00:44:14,499 INFO org.apache.hadoop.mapred.JobClient (main):     Physical memory (bytes) snapshot=22499966976
+2014-04-16 00:44:14,499 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce output records=23531885
+2014-04-16 00:44:14,499 INFO org.apache.hadoop.mapred.JobClient (main):     Virtual memory (bytes) snapshot=73277112320
+2014-04-16 00:44:14,499 INFO org.apache.hadoop.mapred.JobClient (main):     Map output records=59143022
